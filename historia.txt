@@ -1,5 +1,7 @@
 Evento: git y github
+
 Fecha: 29/01/2020
+
 Lugar: Chamba Coworking
 Temperatura: 15 grados
 Participantes: 40 participantes geniales
