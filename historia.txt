@@ -1,5 +1,5 @@
 Evento: git y github
-Pais: Guatemala
+Pais: ninguno
 Lugar: Chamba Coworking
 Temperatura: 15 grados
 Participantes: 40 participantes geniales
