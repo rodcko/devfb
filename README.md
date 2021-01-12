@@ -1,5 +1,5 @@
-# CURSO: GIT/GITHUB PROFESIONAL PARA LA COMUNIDAD DEVELOPER CIRCLES FROM FACEBOOK (GUATEMALA)
-Este es un repo web para el curso de git/github de Developer Circles from Facebook :blue_book:
+# CURSO: GIT/GITHUB PROFESIONAL
+Este es un repo web para el curso de git/github de Developer Circles from Facebook: Ciudad de Guatemala :blue_book:
 
 ------------
 - Comunidad: https://www.facebook.com/groups/DevCGuatemala
